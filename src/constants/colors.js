@@ -1,0 +1,27 @@
+export default {
+  purple: 'purple',
+  red: '#f00',
+  // primary: '#34ADCD',
+  primary: '#0966ff',
+  secondary: '#c7ecee',
+
+  orange: '#E46513',
+  yellow: '#FFEA00',
+  green: '#75fa32',
+  grey: '#bbb',
+  bgcolor: '#F2F2F2',
+  textPrimary: '#0F0A39',
+  textTertiary: '#7B7B78',
+  textGrey: '#B4B4B4',
+  borderColor: '#D4D4D4',
+  backgroundColor: '#E4E4E4',
+  ratingColor: '#ebc307',
+  progressGrey: '#C1C1C1',
+  white: '#FFFFFF',
+  black: '#000',
+  gray: '#F9F9F9',
+  grey_bold: '#CCC',
+  bg_spinner: '#C1C1C147',
+
+  warning: '#ff9966',
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305200418222",
+    "project_id": "pushnotificationsapp-465de",
+    "storage_bucket": "pushnotificationsapp-465de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305200418222:android:5994a600e1062e65218c3f",
+        "android_client_info": {
+          "package_name": "com.nhatrovn.vn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCEaTBgKpp-ZMFLyVdU_IVcOaqZY5PYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
