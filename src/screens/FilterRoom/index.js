@@ -199,7 +199,7 @@ const FilterRoomScreen = ({route}) => {
     dataChoose.current.wards = wards
 
     dataChoose.current.ChangeData = true
-    navigation.navigate('FindRoom', dataChoose.current)
+    navigation.navigate('FindRoomScreen', dataChoose.current)
   }
 
   return (
@@ -208,7 +208,7 @@ const FilterRoomScreen = ({route}) => {
         <Pressable
           disabled
           onPress={() => {
-            navigation.navigate('FindRoom')
+            navigation.navigate('FindRoomScreen')
           }}
           style={{padding: 15}}
         ></Pressable>
@@ -216,7 +216,7 @@ const FilterRoomScreen = ({route}) => {
         <Pressable
           onPress={() => {
             if (isLoaded) navigation.goBack()
-            else navigation.navigate('FindRoom')
+            else navigation.navigate('FindRoomScreen')
           }}
           style={{padding: 15}}
         >

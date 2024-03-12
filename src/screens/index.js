@@ -1,2 +1,3 @@
 import FilterRoomScreen from './FilterRoom'
-export {FilterRoomScreen}
+import FindRoomScreen from './FindRoom'
+export {FilterRoomScreen, FindRoomScreen}
